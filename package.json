@@ -25,8 +25,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-
-    "@reactioncommerce/api-utils": "^1.16.9",
+    "@reactioncommerce/api-utils": "github:janus-reith/api-utils#v1.16.9-fixed",
     "@reactioncommerce/db-version-check": "^1.0.0",
     "@reactioncommerce/logger": "^1.1.3"
   },
